@@ -1,0 +1,7 @@
+,,rocAuc,rocAuc,prAuc,prAuc,ndcg@5,ndcg@5,ndcg@10,ndcg@10,sens@5,sens@5,sens@10,sens@10
+,,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+model,scenario,,,,,,,,,,,,
+LR,baseline,0.676,0.0,0.0086,0.0,0.0367,0.0,0.0778,0.0,0.0674,0.0,0.1573,0.0
+LR,ctganAugB,0.6609,0.0,0.0096,0.0,0.0668,0.0,0.1023,0.0,0.1124,0.0,0.191,0.0
+XGB,baseline,0.6482,0.0,0.0081,0.0,0.0398,0.0,0.0753,0.0,0.0674,0.0,0.1461,0.0
+XGB,ctganAugB,0.6823,0.0,0.0091,0.0,0.0571,0.0,0.1119,0.0,0.1124,0.0,0.236,0.0
